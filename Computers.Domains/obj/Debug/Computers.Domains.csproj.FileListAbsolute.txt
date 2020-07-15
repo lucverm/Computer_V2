@@ -1,0 +1,17 @@
+C:\Users\macho\source\repos\Computers\Computers.Domains\obj\Debug\Computers.Domains.csproj.CoreCompileInputs.cache
+C:\Users\macho\source\repos\Computers\Computers.Domains\bin\Debug\Computers.Domains.dll
+C:\Users\macho\source\repos\Computers\Computers.Domains\bin\Debug\Computers.Domains.pdb
+C:\Users\macho\source\repos\Computers\Computers.Domains\obj\Debug\Computers.Domains.dll
+C:\Users\macho\source\repos\Computers\Computers.Domains\obj\Debug\Computers.Domains.pdb
+C:\TEMP\C#\09-2020\Computers\Computers.Domains\bin\Debug\Computers.Domains.dll
+C:\TEMP\C#\09-2020\Computers\Computers.Domains\bin\Debug\Computers.Domains.pdb
+C:\TEMP\C#\09-2020\Computers\Computers.Domains\bin\Debug\IronPdf.Assets.Rendering.Windows.dll
+C:\TEMP\C#\09-2020\Computers\Computers.Domains\bin\Debug\IronPdf.dll
+C:\TEMP\C#\09-2020\Computers\Computers.Domains\bin\Debug\Xceed.Document.NET.dll
+C:\TEMP\C#\09-2020\Computers\Computers.Domains\bin\Debug\Xceed.Words.NET.dll
+C:\TEMP\C#\09-2020\Computers\Computers.Domains\bin\Debug\IronPdf.xml
+C:\TEMP\C#\09-2020\Computers\Computers.Domains\obj\Debug\Computers.Domains.csprojAssemblyReference.cache
+C:\TEMP\C#\09-2020\Computers\Computers.Domains\obj\Debug\Computers.Domains.csproj.CoreCompileInputs.cache
+C:\TEMP\C#\09-2020\Computers\Computers.Domains\obj\Debug\Computers.Domains.csproj.CopyComplete
+C:\TEMP\C#\09-2020\Computers\Computers.Domains\obj\Debug\Computers.Domains.dll
+C:\TEMP\C#\09-2020\Computers\Computers.Domains\obj\Debug\Computers.Domains.pdb

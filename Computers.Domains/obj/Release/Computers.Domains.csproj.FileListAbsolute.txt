@@ -1,0 +1,6 @@
+C:\Users\macho\source\repos\Computers\Computers.Domains\bin\Release\Computers.Domains.dll
+C:\Users\macho\source\repos\Computers\Computers.Domains\bin\Release\Computers.Domains.pdb
+C:\Users\macho\source\repos\Computers\Computers.Domains\obj\Release\Computers.Domains.csprojAssemblyReference.cache
+C:\Users\macho\source\repos\Computers\Computers.Domains\obj\Release\Computers.Domains.csproj.CoreCompileInputs.cache
+C:\Users\macho\source\repos\Computers\Computers.Domains\obj\Release\Computers.Domains.dll
+C:\Users\macho\source\repos\Computers\Computers.Domains\obj\Release\Computers.Domains.pdb

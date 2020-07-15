@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "iVc48hj0qkpaoFp8T+92CAiKOnAkRao6u2S9zHWVZ/DSlhy84RzNKssAsRV1ZhKmjUIF3Z52GlbA3XBI++uQ1Q==",
+  "success": true,
+  "projectFilePath": "C:\\TEMP\\C#\\09-2020\\Computers\\Computers.Tests\\Computers.Tests.ViewModels.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lverm\\.nuget\\packages\\castle.core\\4.4.0\\castle.core.4.4.0.nupkg.sha512",
+    "C:\\Users\\lverm\\.nuget\\packages\\moq\\4.13.0\\moq.4.13.0.nupkg.sha512",
+    "C:\\Users\\lverm\\.nuget\\packages\\nunit\\3.12.0\\nunit.3.12.0.nupkg.sha512",
+    "C:\\Users\\lverm\\.nuget\\packages\\nunit3testadapter\\3.15.1\\nunit3testadapter.3.15.1.nupkg.sha512",
+    "C:\\Users\\lverm\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.0\\system.runtime.compilerservices.unsafe.4.5.0.nupkg.sha512",
+    "C:\\Users\\lverm\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.1\\system.threading.tasks.extensions.4.5.1.nupkg.sha512"
+  ],
+  "logs": []
+}
